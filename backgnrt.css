@@ -1,0 +1,44 @@
+body {
+    background-image: url('th.jpeg');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .generator {
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  .generator label {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  
+  .generator input {
+    margin-right: 20px;
+  }
+  
+  .result {
+    text-align: center;
+  }
+  
+  .result h2 {
+    margin-bottom: 20px;
+  }
+  
+  #resultBox {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 1px solid #333;
+  }
+  
